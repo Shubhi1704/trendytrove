@@ -2,10 +2,12 @@ import React, { useContext } from 'react'
 import './CartItems.css'
 import { ShopContext } from '../../Context/ShopContext'
 import remove_icon from '../Assets/cross-icon.png'
+import { Link } from "react-router-dom";
 
 
-const CartItems = () => {
+const CartItems = (props) => {
     const {getTotalCartAmount,all_product,cartItems,removeFromCart}= useContext(ShopContext);
+
     return (
     <div className='cartitems'>
         <h1>GLAMBIN</h1>
@@ -56,8 +58,10 @@ const CartItems = () => {
                             <h3>Total</h3>
                             <h3>Rs {getTotalCartAmount()}</h3>
                         </div>
+                        <br />
+                        <br />
+                        <Link to='/orderdetails'><button>PROCEED TO CHECKOUT</button></Link>
                     </div>
-                    <button>PROCEED TO CHECKOUT</button>
                 </div>
                 <div className="cartitems-promocode">
                     <p>If you have promo code, Enter it here</p>

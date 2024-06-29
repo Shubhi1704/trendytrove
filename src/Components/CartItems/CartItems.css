@@ -73,7 +73,7 @@
 }
 
 .cartitems-total button{
-    width: 262px;
+    width: 270px;
     height: 58px;
     outline: none;
     border: none;
@@ -82,6 +82,10 @@
     font-size: 18px;
     font-weight: 600;
     cursor: pointer;
+}
+
+.cartitems-total button:active{
+    background-color: rgb(173, 107, 107);
 }
 .cartitems-promocode{
     flex: 1;

@@ -6,7 +6,9 @@ import  ShopCategory  from './Pages/ShopCategory';
 import  Product  from './Pages/Product';
 import  LoginSignup  from './Pages/LoginSignup';
 import Cart from './Pages/Cart';
-import Footer from './Components/Footer/Footer'
+import OrderDetails from './Pages/OrderDetails';
+import Footer from './Components/Footer/Footer';
+import OrderPlaced from './Pages/OrderPlaced';
 import banner_men  from './Components/Assets/banner_men.png'
 import banner_women from  './Components/Assets/banner_women.png'
 import banner_accessories from './Components/Assets/banner_accessories.png'
@@ -27,6 +29,8 @@ function App() {
 
         <Route path='/cart' element= {<Cart/>}/>
         <Route path='/login' element= {<LoginSignup/>}/>
+        <Route path='/orderdetails' element= {<OrderDetails/>}/>
+        <Route path='/orderplaced' element= {<OrderPlaced/>}/>
 
       </Routes>
       <Footer />
