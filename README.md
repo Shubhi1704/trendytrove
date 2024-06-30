@@ -14,6 +14,7 @@ Installation
 1. Clone the Repository :
 
    bash
+   
    git clone https://github.com/Vaani0304/trendytrove.git
    
    cd trendytrove
@@ -22,12 +23,14 @@ Installation
 3. Install Dependencies :
 
    bash
+   
    npm install
    
 
 5. Run the Application :
 
    bash
+   
    npm start
    
 
