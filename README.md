@@ -1,4 +1,4 @@
-TrendyTrove
+**TrendyTrove**
 
 This project is a simple e-commerce application built using React and CSS. It serves as a basic template for developing an online store, featuring a curated collection of trendy dresses at reasonable prices, aiming to make you the most stylish version of yourself.
 
