@@ -60,8 +60,11 @@ This project is a simple e-commerce application built using React and CSS. It se
 Authors
 
 - Vandita Bharti :
-  University Rollno. :- 22015002959
+  
+    University Rollno. :- 22015002959
 - Shubhi Dwivedi :
-  University Rollno. :- 22015002892
+  
+    University Rollno. :- 22015002892
 - Divyanshi Bhatt:
-  University Rollno. :- 
+
+    University Rollno. :- 
