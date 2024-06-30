@@ -61,7 +61,3 @@ Authors
 - Vandita Bharti
 - Shubhi Dwivedi
 - Divyanshi Bhatt
-
-About Me
-
-I am Vandita Bharti, a passionate developer currently working on TrendyTrove. My goal is to create engaging and user-friendly experiences through front-end development. I am dedicated to improving this project and exploring backend development in the near future.
