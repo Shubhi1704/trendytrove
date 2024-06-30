@@ -12,22 +12,27 @@ Features
 Installation
 
 1. Clone the Repository :
+
    bash
    git clone https://github.com/Vaani0304/trendytrove.git
+   
    cd trendytrove
    
 
-2. Install Dependencies :
+3. Install Dependencies :
+
    bash
    npm install
    
 
-3. Run the Application :
+5. Run the Application :
+
    bash
    npm start
    
 
-4. Open in Browser :
+7. Open in Browser :
+   
    Navigate to http://localhost:3000 to view the app.
 
 Usage
