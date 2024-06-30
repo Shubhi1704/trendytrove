@@ -2,20 +2,21 @@
 
 This project is a simple e-commerce application built using React and CSS. It serves as a basic template for developing an online store, featuring a curated collection of trendy dresses at reasonable prices, aiming to make you the most stylish version of yourself.
 
-Features
+
+**Features**
 
 - Product Listings : Displays a list of products with details.
 - Product Details : View individual product information.
 - Shopping Cart : Add and remove items from the cart.
 - Responsive Design : Mobile-friendly layout using CSS.
 
-Installation
+**Installation**
 
 1. Clone the Repository :
 
    bash
    
-   git clone https://github.com/Vaani0304/trendytrove.git
+   git clone https://github.com/Shubhi1704/trendytrove.git
    
    cd trendytrove
    
@@ -38,19 +39,19 @@ Installation
    
    Navigate to http://localhost:3000 to view the app.
 
-Usage
+**Usage**
 
 - Browse through the product listings.
 - Click on products for more details.
 - Add products to your shopping cart.
 - View and manage items in your cart.
 
-Technologies Used
+**Technologies Used**
 
 - React : For building the user interface.
 - CSS : For styling and responsive design.
 
-Future Enhancements
+**Future Enhancements**
 
 - Integration with a backend for product data.
 - User authentication and profiles.
@@ -58,6 +59,9 @@ Future Enhancements
 
 Authors
 
-- Vandita Bharti
-- Shubhi Dwivedi
-- Divyanshi Bhatt
+- Vandita Bharti :
+  University Rollno. :- 22015002959
+- Shubhi Dwivedi :
+  University Rollno. :- 22015002892
+- Divyanshi Bhatt:
+  University Rollno. :- 
