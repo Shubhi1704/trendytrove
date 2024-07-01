@@ -8,7 +8,6 @@ This project is a simple e-commerce application built using React and CSS. It se
 - Product Listings : Displays a list of products with details.
 - Product Details : View individual product information.
 - Shopping Cart : Add and remove items from the cart.
-- Responsive Design : Mobile-friendly layout using CSS.
 
 **Installation**
 
@@ -49,7 +48,7 @@ This project is a simple e-commerce application built using React and CSS. It se
 **Technologies Used**
 
 - React : For building the user interface.
-- CSS : For styling and responsive design.
+- CSS : For styling. 
 
 **Future Enhancements**
 
