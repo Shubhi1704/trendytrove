@@ -4,18 +4,18 @@ import tt_logo from "../Assets/tt_logo.jpeg";
 import GB_cart from "../Assets/GB_cart.jpg";
 import { Link } from "react-router-dom";
 import { ShopContext } from "../../Context/ShopContext";
-
+// import nav_dropdown from '../Assets/nav_dropdown png' 
 const Navbar = () => {
+
   const [menu, setMenu] = useState("shop");
   const {getTotalCartItems}= useContext(ShopContext);
-
   return (
     <div className="navbar">
       <div className="nav-logo">
         <img src={tt_logo} alt="" />
         <p>TrendyTrove</p>
       </div>
-      
+        {/* <img  className='nav-dropdown'onClick={dropdown_toggle } src={nav_dropdowm} alt="" /> */}
         <ul className="nav-menu">
           <li
           onClick = {()=>{setMenu("shop")}}><Link style={{textDecoration:'none'}} to='/'>Shop</Link>{menu==="shop"?<hr/> : <></> }
