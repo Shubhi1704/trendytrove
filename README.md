@@ -60,10 +60,13 @@ Authors
 
 - Vandita Bharti :
   
-    University Rollno. :- 22015002959
+    Sec- H
+    Email id- vanditabh5@gmail.com
 - Shubhi Dwivedi :
   
-    University Rollno. :- 22015002892
+    Sec- G
+    Email id- shubhid258@gmail.com
 - Divyanshi Bhatt:
 
-    University Rollno. :- 
+    Sec- C
+    Email id- bhattdivyanshi379@gmail.com
